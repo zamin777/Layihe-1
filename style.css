@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    padding-top: 20px;
+}
+
+.container{
+    padding: 0% 19% 0% 19%;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.date-info{
+    list-style: none;
+    gap: 30px;
+    align-items: center;
+}
+.date-info li{
+    font-size: 17px;
+}
+
+.icons-small{
+    width: 15px;
+}
+
+.logo{
+    margin-bottom: 50px;
+}
+
+.bottom-header{
+    margin-top: 40px;
+    justify-content: space-between;
+}
+.bottom-header img{
+    width: 250px;
+}
+.bottom-header h1{
+    font-size: 75px;
+    width: 628px;
+    height: 190px;
+}
+
+.header-writing{
+    background: #1E4681;
+    border-radius: 5px;
+    width: 400px;
+    align-items: center;
+    color: white;
+    width: 300px;
+    padding: 20px;
+}
+
+.author{
+    margin-left: 120px;
+    margin-top: 20px;
+}
+
+.header-writing-wrapper{
+    margin-top: 40px;
+    justify-content: center;
+}
+
+.bottom-writing{
+    width: 300px;
+}
+
+.course-details img{
+    width: 250px;
+}
+
+.course-details{
+    align-items: center;
+    gap: 250px;
+}
+
+.first-paragh{
+    margin-bottom: 30px;
+}
+
+h2.course{
+    font-size: 55px;
+    font-weight: 900;
+}
+
+.course-info-section{
+    padding-top: 80px;
+}
+
+.course-time-details{
+    align-items: center;
+    gap: 150px;
+    margin-top: 40px;
+}
+
+.course-time-details ul {
+    gap: 80px;
+    list-style: none;
+}
+
+.course-time-details ul li p.for-who{
+    width: 130px;
+    line-height: 23.4px;
+    font-size: 18px;
+}
+
+.hour-course{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.format-details li{
+    width: 250px;
+    list-style: none;
+}
+.format h2{
+    font-size: 55px;
+    margin-bottom: 70px;
+}
+
+.format-header{
+    color: #1E4681;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.format{
+    padding-top: 80px;
+}
+
+.format ul{
+    gap: 80px;
+}
+
+.format-head-info{
+    font-size: 18px;
+}
